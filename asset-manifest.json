@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/composem/static/css/main.d6b5692b.chunk.css",
+    "main.js": "/composem/static/js/main.656ab3d2.chunk.js",
+    "main.js.map": "/composem/static/js/main.656ab3d2.chunk.js.map",
+    "runtime-main.js": "/composem/static/js/runtime-main.b5d4bb49.js",
+    "runtime-main.js.map": "/composem/static/js/runtime-main.b5d4bb49.js.map",
+    "static/js/2.7393b679.chunk.js": "/composem/static/js/2.7393b679.chunk.js",
+    "static/js/2.7393b679.chunk.js.map": "/composem/static/js/2.7393b679.chunk.js.map",
+    "index.html": "/composem/index.html",
+    "static/css/main.d6b5692b.chunk.css.map": "/composem/static/css/main.d6b5692b.chunk.css.map",
+    "static/js/2.7393b679.chunk.js.LICENSE.txt": "/composem/static/js/2.7393b679.chunk.js.LICENSE.txt",
+    "static/js/main.656ab3d2.chunk.js.LICENSE.txt": "/composem/static/js/main.656ab3d2.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/composem/static/media/square5.16283001.png",
+    "static/media/etherum.png": "/composem/static/media/etherum.628f765f.png",
+    "static/media/nucleo-icons.css": "/composem/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path3.png": "/composem/static/media/path3.3f66cc18.png",
+    "static/media/path4.png": "/composem/static/media/path4.cb1d9fab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d4bb49.js",
+    "static/js/2.7393b679.chunk.js",
+    "static/css/main.d6b5692b.chunk.css",
+    "static/js/main.656ab3d2.chunk.js"
+  ]
+}
